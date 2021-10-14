@@ -4,7 +4,7 @@ Catering delVia is a catering services managed by your friend, Via. Via manage a
 
 To improve Catering delVia’s management, Via hired you as a database administrator are required to analyze and design a database for Bob’s shop using SQL Server Management Studio.
 
-	Every staff that hired by Catering delVia have a task to serve a customer who use the service and purchase an ingredient from a vendor.
+Every staff that hired by Catering delVia have a task to serve a customer who use the service and purchase an ingredient from a vendor.
   
   The tasks that I must do was:
 a.	Create Entity Relationship Diagram to maintain services and purchase transactions.
